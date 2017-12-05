@@ -10,7 +10,9 @@
 - ScreenFloat
 - Pixelmator
 -  微信
-- LyricsX
+- Watchdog for Xcode
+- Final Cut Pro
+- Logic Pro X
 ### Setapp
 - BetterZip
 - CleanMyMac
@@ -39,11 +41,10 @@
 - [Tower](https://www.git-tower.com/mac/)
 - [Charles](https://www.charlesproxy.com)
 - [Fantastical 2](https://flexibits.com/fantastical)
-- [网易云音乐](https://music.163.com)
 - [Office](https://products.office.com/zh-cn/home)
-- [Synergy](https://symless.com/synergy)
 - [iTerm 2](https://www.iterm2.com)
-
+- [网易云音乐](https://music.163.com)
+- [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index?spm=a21e4.8043303.0.0.5a93727fKStr3n)
 ---- 
 
 ## iOS
