@@ -47,6 +47,16 @@
 - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index?spm=a21e4.8043303.0.0.5a93727fKStr3n)
 ---- 
 
-## iOS
 ## Windows
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [BlackSSL](https://blackssl.com.au)
+- [CleanMyPC](https://macpaw.com/cleanmypc)
+- [PotPlayer](https://potplayer.daum.net)
+- [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+- [Driver Booster](https://www.iobit.com/en/driver-booster.php)
+- [微信](https://pc.weixin.qq.com)
+- [Steam](https://store.steampowered.com)
+- [UU加速器](https://uu.163.com)
+- [暴雪战网](https://www.battlenet.com.cn/zh/)
+
+
