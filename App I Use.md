@@ -48,3 +48,5 @@
 ---- 
 
 ## iOS
+## Windows
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
