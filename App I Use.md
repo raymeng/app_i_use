@@ -58,5 +58,6 @@
 - [Steam](https://store.steampowered.com)
 - [UU加速器](https://uu.163.com)
 - [暴雪战网](https://www.battlenet.com.cn/zh/)
+- [炉石传说官方插件](http://hs.blizzard.cn/hsoa)
 
 
