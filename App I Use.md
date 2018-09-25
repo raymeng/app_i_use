@@ -27,13 +27,13 @@
 - CodeRunner
 - Permute
 - Gemini
+- Bartender
 ### Third Party
 - [Surge](https://nssurge.com) 
 - [Alfred](https://www.alfredapp.com)
 - [1Password](https://1password.com)
 - [Viscosity](https://www.sparklabs.com/viscosity/)
 - [Zeplin](https://zeplin.io)
-- [Bartender](https://www.macbartender.com)
 - [QQ](https://im.qq.com/index.shtml)
 - [Dropbox](https://www.dropbox.com/zh_CN/)
 - [owncloud](https://owncloud.org)
