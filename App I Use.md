@@ -14,20 +14,20 @@
 - [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
 - [Watchdog for Xcode](https://apps.apple.com/app/watchdog-for-xcode/id734258109?mt=12)
 ### Setapp
-- BetterZip
-- CleanMyMac
-- iStat Menus
-- MoneyWiz
-- Paste
-- Screens
-- Ulysses
-- Downie
-- Squash
-- Base
-- CodeRunner
-- Permute
-- Gemini
-- Bartender
+- [BetterZip](https://setapp.com/apps/betterzip)
+- [CleanMyMac](https://setapp.com/apps/cleanmymac)
+- [iStat Menus](https://setapp.com/apps/istat-menus)
+- [MoneyWiz](https://setapp.com/apps/moneywiz)
+- [Paste](https://setapp.com/apps/paste)
+- [Screens](https://setapp.com/apps/screens)
+- [Ulysses](https://setapp.com/apps/ulysses)
+- [Downie](https://setapp.com/apps/downie)
+- [Squash](https://setapp.com/apps/squash)
+- [Base](https://setapp.com/apps/base)
+- [CodeRunner](https://setapp.com/apps/coderunner)
+- [Permute](https://setapp.com/apps/permute)
+- [Gemini](https://setapp.com/apps/gemini)
+- [Bartender](https://setapp.com/apps/bartender)
 ### Third Party
 - [Surge](https://nssurge.com) 
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
