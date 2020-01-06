@@ -1,18 +1,18 @@
 ## Mac
 #### Mac App Store
 - [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
-- Keynote
-- OmniFocus
-- HyperDock
-- Tweetbot
-- Reeder
-- Day One
-- ScreenFloat
-- Pixelmator
--  微信
-- Watchdog for Xcode
-- Final Cut Pro
-- Logic Pro X
+- [Keynote](https://apps.apple.com/cn/app/keynote/id409183694?ls=1&mt=12)
+- [OmniFocus](https://apps.apple.com/cn/app/omnifocus-3/id1346203938?mt=12)
+- [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
+- [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
+- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12)
+- [HyperDock](https://apps.apple.com/cn/app/hyperdock/id449830122?mt=12)
+- [Tweetbot](https://apps.apple.com/cn/app/tweetbot-3-for-twitter/id1384080005?mt=12)
+- [Reeder](https://apps.apple.com/cn/app/reeder-4/id1449412482?mt=12)
+- [ScreenFloat](https://apps.apple.com/app/screenfloat/id414528154?mt=12)
+- [Pixelmator](https://apps.apple.com/cn/app/pixelmator-pro/id1289583905?mt=12)
+- [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
+- [Watchdog for Xcode](https://apps.apple.com/app/watchdog-for-xcode/id734258109?mt=12)
 ### Setapp
 - BetterZip
 - CleanMyMac
