@@ -1,6 +1,6 @@
 ## Mac
 #### Mac App Store
-- Xcode
+- [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
 - Keynote
 - OmniFocus
 - HyperDock
