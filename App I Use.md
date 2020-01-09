@@ -51,11 +51,19 @@
 ## Windows
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [BlackSSL](https://blackssl.com.au)
-- [CleanMyPC](https://macpaw.com/cleanmypc)
 - [PotPlayer](https://potplayer.daum.net)
-- [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+- [foobar2000](https://www.foobar2000.org/)
+- [Spotify](https://www.spotify.com/us/)
+- [iTunes](https://www.apple.com/itunes/)
+- [Bandizip](https://www.bandisoft.com/bandizip/)
+- [CleanMyPC](https://macpaw.com/cleanmypc)
 - [微信](https://pc.weixin.qq.com)
+- [HandBreak](https://handbrake.fr/)
+- [火绒安全软件](https://www.huorong.cn/person5.html)
+- [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+- [QQ](https://im.qq.com/pcqq/)
+- [阿里旺旺](https://wangwang.1688.com/)
+- [uTorrent](https://www.utorrent.com/intl/zh/desktop/)
 - [Steam](https://store.steampowered.com)
+- [QQ游戏](https://qqgame.qq.com/)
 - [UU加速器](https://uu.163.com)
-
-
