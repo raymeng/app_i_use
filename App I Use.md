@@ -54,7 +54,6 @@
 - [PotPlayer](https://potplayer.daum.net)
 - [foobar2000](https://www.foobar2000.org/)
 - [Spotify](https://www.spotify.com/us/)
-- [iTunes](https://www.apple.com/itunes/)
 - [Bandizip](https://www.bandisoft.com/bandizip/)
 - [CleanMyPC](https://macpaw.com/cleanmypc)
 - [微信](https://pc.weixin.qq.com)
