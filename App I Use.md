@@ -65,3 +65,4 @@
 - [Steam](https://store.steampowered.com)
 - [QQ游戏](https://qqgame.qq.com/)
 - [UU加速器](https://uu.163.com)
+- [Screens Connect](https://edovia.com/en/screens-connect/)
