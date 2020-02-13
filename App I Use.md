@@ -57,7 +57,6 @@
 - [Bandizip](https://www.bandisoft.com/bandizip/)
 - [CleanMyPC](https://macpaw.com/cleanmypc)
 - [微信](https://pc.weixin.qq.com)
-- [HandBreak](https://handbrake.fr/)
 - [火绒安全软件](https://www.huorong.cn/person5.html)
 - [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
 - [QQ](https://im.qq.com/pcqq/)
