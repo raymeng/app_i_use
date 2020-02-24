@@ -52,6 +52,12 @@
 - [迅雷](http://mac.xunlei.com/)
 - [AirParrot](https://www.airsquirrels.com/airparrot/)
 - [Refector](https://www.airsquirrels.com/reflector/)
+### Terminal
+- [Homebrew](https://brew.sh/) 
+- [Oh My Zsh](https://ohmyz.sh/) 
+- [NPM](https://www.npmjs.com/) 
+
+
 
 
 
