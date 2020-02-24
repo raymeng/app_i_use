@@ -14,6 +14,7 @@
 - [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
 - [LyricsX](https://apps.apple.com/cn/app/lyricsx/id1254743014?mt=12)
 - [Watchdog for Xcode](https://apps.apple.com/app/watchdog-for-xcode/id734258109?mt=12)
+- [BombSquad](https://apps.apple.com/us/app/bombsquad/id416482767?mt=12)
 ### Setapp
 - [BetterZip](https://setapp.com/apps/betterzip)
 - [CleanMyMac](https://setapp.com/apps/cleanmymac)
@@ -47,4 +48,11 @@
 - [Zeplin](https://zeplin.io)
 - [网易云音乐](https://music.163.com)
 - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index?spm=a21e4.8043303.0.0.5a93727fKStr3n)
+- [Davinci](https://www.blackmagicdesign.com/products/davinciresolve/)
+- [迅雷](http://mac.xunlei.com/)
+- [AirParrot](https://www.airsquirrels.com/airparrot/)
+- [Refector](https://www.airsquirrels.com/reflector/)
+
+
+
 ---- 
