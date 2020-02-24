@@ -16,3 +16,6 @@
 - [QQ游戏](https://qqgame.qq.com/)
 - [UU加速器](https://uu.163.com)
 - [Screens Connect](https://edovia.com/en/screens-connect/)
+- [AirParrot](https://www.airsquirrels.com/airparrot/)
+- [Refector](https://www.airsquirrels.com/reflector/)
+- [迅雷](http://x.xunlei.com/)
