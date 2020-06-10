@@ -2,17 +2,18 @@
 #### Mac App Store
 - [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12)
 - [Keynote](https://apps.apple.com/cn/app/keynote/id409183694?ls=1&mt=12)
-- [Pages](https://apps.apple.com/cn/app/keynote/id409183694?ls=1&mt=12)
--  [Numbers](https://apps.apple.com/cn/app/keynote/id409183694?ls=1&mt=12)
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
-- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12)
 - [HyperDock](https://apps.apple.com/cn/app/hyperdock/id449830122?mt=12)
--  [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
--  [LyricsX](https://apps.apple.com/cn/app/lyricsx/id1254743014?mt=12)
+- [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
+- [LyricsX](https://apps.apple.com/cn/app/lyricsx/id1254743014?mt=12)
 - [Tweetbot](https://apps.apple.com/cn/app/tweetbot-3-for-twitter/id1384080005?mt=12)
--  [OmniFocus](https://apps.apple.com/cn/app/omnifocus-3/id1346203938?mt=12)
+- [OmniFocus](https://apps.apple.com/cn/app/omnifocus-3/id1346203938?mt=12)
 - [Reeder](https://apps.apple.com/cn/app/reeder-4/id1449412482?mt=12)
+- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12)
+- [Pages](https://apps.apple.com/cn/app/keynote/id409183694?ls=1&mt=12)
+- [Numbers](https://apps.apple.com/cn/app/keynote/id409183694?ls=1&mt=12)
+- [Word](https://apps.apple.com/cn/app/microsoft-word/id462054704?mt=12)
 
 ### Setapp
 - [BetterZip](https://setapp.com/apps/betterzip)
@@ -26,7 +27,7 @@
 - [Bartender](https://setapp.com/apps/bartender)
 
 ### Third Party
-- [Surge](https://nssurge.com) 
+- [Surge](https://nssurge.com)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [1Password](https://1password.com)
 - [Alfred](https://www.alfredapp.com)
@@ -40,4 +41,4 @@
 - [Davinci](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [迅雷](http://mac.xunlei.com/)
 ### Terminal
-- [Oh My Zsh](https://ohmyz.sh/) 
+- [Oh My Zsh](https://ohmyz.sh/)
