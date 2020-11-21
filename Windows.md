@@ -1,6 +1,5 @@
 ## Windows
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- [BlackSSL](https://blackssl.com.au)
 - [PotPlayer](https://potplayer.daum.net)
 - [foobar2000](https://www.foobar2000.org/)
 - [Spotify](https://www.spotify.com/us/)
