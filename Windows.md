@@ -6,4 +6,5 @@
 - [Snappy Driver Installer](https://sdi-tool.org/)
 - [Steam](https://store.steampowered.com)
 - [Spotify](https://www.spotify.com/us/)
+- [网易uu加速器](https://uu.163.com/)
 - [火绒安全软件](https://www.huorong.cn/person5.html)
