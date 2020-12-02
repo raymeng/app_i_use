@@ -2,6 +2,7 @@
 - [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 - [CleanMyPC](https://macpaw.com/cleanmypc)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [Logitech G HUB](https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
 - [PotPlayer](https://potplayer.daum.net)
 - [Snappy Driver Installer](https://sdi-tool.org/)
 - [Steam](https://store.steampowered.com)
