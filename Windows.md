@@ -1,7 +1,7 @@
 ## Windows
 - [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 - [CleanMyPC](https://macpaw.com/cleanmypc)
-- [Foobar2000](https://www.foobar2000.org/)
+- [Foobar](https://www.foobar2000.org/)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Logitech G HUB](https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
 - [PotPlayer](https://potplayer.daum.net)
