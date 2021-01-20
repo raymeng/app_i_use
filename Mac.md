@@ -35,5 +35,8 @@
 - [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/index?spm=a21e4.8043303.0.0.5a93727fKStr3n)
 - [Davinci](https://www.blackmagicdesign.com/products/davinciresolve/)
 - [迅雷](http://mac.xunlei.com/)
+- [Launchpad Manager](http://launchpadmanager.com/)
+
+
 ### Terminal
 - [Oh My Zsh](https://ohmyz.sh/)
