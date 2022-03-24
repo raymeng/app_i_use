@@ -5,7 +5,6 @@
 - [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
 - [LyricsX](https://apps.apple.com/cn/app/lyricsx/id1254743014?mt=12)
 - [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12) 
-
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
 - [PopClip](https://apps.apple.com/cn/app/popclip/id445189367?mt=12)
