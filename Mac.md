@@ -9,7 +9,6 @@
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
 - [PopClip](https://apps.apple.com/cn/app/popclip/id445189367?mt=12)
 - [Pixelmator Pro](https://apps.apple.com/cn/app/pixelmator-pro/id1289583905?mt=12)
-- [Tweetbot](https://apps.apple.com/cn/app/tweetbot-3-for-twitter/id1384080005?mt=12)
 
 ### Setapp
 - [BetterZip](https://setapp.com/apps/betterzip)
