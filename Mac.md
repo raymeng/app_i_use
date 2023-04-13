@@ -7,15 +7,13 @@
 
 ### Setapp
 - [CleanMyMac](https://setapp.com/apps/cleanmymac)
-- [PopClip](https://apps.apple.com/cn/app/popclip/id445189367?mt=12)
 - [BetterZip](https://setapp.com/apps/betterzip)
-- [iStat Menus](https://setapp.com/apps/istat-menus)
 - [Paste](https://setapp.com/apps/paste)
-- [Screens](https://setapp.com/apps/screens)
+- [iStat Menus](https://setapp.com/apps/istat-menus)
 - [Ulysses](https://setapp.com/apps/ulysses)
-- [Downie](https://setapp.com/apps/downie)
-- [Permute](https://setapp.com/apps/permute)
-- [Bartender](https://setapp.com/apps/bartender)
+- [Due](https://setapp.com/apps/due)
+- [PopClip](https://setapp.com/apps/popclip)
+- [One Switch](https://setapp.com/apps/one-switch)
 
 ### Terminal
 - [Homebrew](https://brew.sh/index_zh-cn)
