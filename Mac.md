@@ -34,6 +34,8 @@ https://formulae.brew.sh
 ### Third Party
 - [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
+
+### Other
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Charles](https://www.charlesproxy.com)
 - [Launchpad Manager](http://launchpadmanager.com/)
