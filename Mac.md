@@ -4,6 +4,7 @@
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
 - [Pixelmator Pro](https://apps.apple.com/cn/app/pixelmator-pro/id1289583905?mt=12)
+- [Pixelmator Pro](https://apps.apple.com/us/app/omnifocus-3/id1346203938?l=zh&mt=12)
 
 ### Setapp
 - [CleanMyMac](https://setapp.com/apps/cleanmymac)
@@ -19,7 +20,7 @@
 - [Homebrew](https://brew.sh/index_zh-cn)
 - [Oh My Zsh](https://ohmyz.sh/)
 
-### Third Party/Homebrew 
+### Third Party by Homebrew 
 brew install --cask 软件名
 https://formulae.brew.sh
 - [Surge](https://nssurge.com)
@@ -36,7 +37,6 @@ https://formulae.brew.sh
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
 
 ### Other
-
 - [Charles](https://www.charlesproxy.com)
 - [Launchpad Manager](http://launchpadmanager.com/)
 
