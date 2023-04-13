@@ -35,5 +35,5 @@
 
 
 ### Terminal
-- [Oh My Zsh](https://ohmyz.sh/)
 - [Homebrew](https://brew.sh/index_zh-cn)
+- [Oh My Zsh](https://ohmyz.sh/)
