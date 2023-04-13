@@ -7,8 +7,8 @@
 - [Pixelmator Pro](https://apps.apple.com/cn/app/pixelmator-pro/id1289583905?mt=12)
 
 ### Setapp
-- [BetterZip](https://setapp.com/apps/betterzip)
 - [CleanMyMac](https://setapp.com/apps/cleanmymac)
+- [BetterZip](https://setapp.com/apps/betterzip)
 - [iStat Menus](https://setapp.com/apps/istat-menus)
 - [Paste](https://setapp.com/apps/paste)
 - [Screens](https://setapp.com/apps/screens)
@@ -26,7 +26,6 @@
 - [微信](https://mac.weixin.qq.com/?t=mac&lang=zh_CN)
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
 - [LyricsX](https://github.com/ddddxxx/LyricsX)
-
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Charles](https://www.charlesproxy.com)
 - [Launchpad Manager](http://launchpadmanager.com/)
