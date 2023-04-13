@@ -17,8 +17,16 @@
 - [Permute](https://setapp.com/apps/permute)
 - [Bartender](https://setapp.com/apps/bartender)
 
+### Terminal
+- [Homebrew](https://brew.sh/index_zh-cn)
+- [Oh My Zsh](https://ohmyz.sh/)
+
+### Third Party/Homebrew
+- [Surge](https://nssurge.com)(https://formulae.brew.sh/cask/surge#default)
+- [Oh My Zsh](https://ohmyz.sh/)
+
 ### Third Party
-- [Surge](https://nssurge.com)
+
 - [1Password](https://1password.com/downloads/mac/)
 - [iTerm](https://www.iterm2.com)
 - [Alfred](https://www.alfredapp.com)
@@ -31,7 +39,5 @@
 - [Launchpad Manager](http://launchpadmanager.com/)
 
 
-### Terminal
-- [Homebrew](https://brew.sh/index_zh-cn)
-- [Oh My Zsh](https://ohmyz.sh/)
+
 
