@@ -1,8 +1,6 @@
 ## Mac
 #### Mac App Store
-- [1Password](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?l=zh&mt=12)
 
-- [微信](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)
 - [LyricsX](https://apps.apple.com/cn/app/lyricsx/id1254743014?mt=12)
 - [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12) 
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
@@ -22,7 +20,10 @@
 - [Bartender](https://setapp.com/apps/bartender)
 
 ### Third Party
+- [1Password](https://1password.com/downloads/mac/)
+- [微信](https://mac.weixin.qq.com/?t=mac&lang=zh_CN)
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
+- 
 - [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
 - [Surge](https://nssurge.com)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
