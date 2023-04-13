@@ -1,9 +1,9 @@
 ## Mac
 #### Mac App Store
+- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12) 
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
 - [Pixelmator Pro](https://apps.apple.com/cn/app/pixelmator-pro/id1289583905?mt=12)
-- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12) 
 
 ### Setapp
 - [CleanMyMac](https://setapp.com/apps/cleanmymac)
@@ -30,13 +30,15 @@ https://formulae.brew.sh
 - [Alfred](https://www.alfredapp.com)
 - [微信](https://mac.weixin.qq.com/?t=mac&lang=zh_CN)
 - [LyricsX](https://github.com/ddddxxx/LyricsX)
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [Microsoft 365](https://www.microsoft.com/zh-hk/microsoft-365/mac/microsoft-365-for-mac/?rtc=1)
 
 ### Third Party
 - [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
 
 ### Other
-- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+
 - [Charles](https://www.charlesproxy.com)
 - [Launchpad Manager](http://launchpadmanager.com/)
 
