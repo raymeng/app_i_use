@@ -21,8 +21,8 @@
 - [Homebrew](https://brew.sh/index_zh-cn)
 - [Oh My Zsh](https://ohmyz.sh/)
 
-### Third Party/Homebrew
-- [Surge](https://nssurge.com)(https://formulae.brew.sh/cask/surge#default)
+### Third Party/Homebrew brew install --cask 软件名
+- [Surge](https://nssurge.com)
 - [Oh My Zsh](https://ohmyz.sh/)
 
 ### Third Party
