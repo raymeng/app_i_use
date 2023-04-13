@@ -1,7 +1,5 @@
 ## Mac
 #### Mac App Store
-
-- [LyricsX](https://apps.apple.com/cn/app/lyricsx/id1254743014?mt=12)
 - [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12) 
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
@@ -20,16 +18,16 @@
 - [Bartender](https://setapp.com/apps/bartender)
 
 ### Third Party
+- [Surge](https://nssurge.com)
 - [1Password](https://1password.com/downloads/mac/)
+- [iTerm](https://www.iterm2.com)
+- [Alfred](https://www.alfredapp.com)
+- [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
 - [微信](https://mac.weixin.qq.com/?t=mac&lang=zh_CN)
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
-- 
-- [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
-- [Surge](https://nssurge.com)
+- [LyricsX](https://github.com/ddddxxx/LyricsX)
+
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
-- [Alfred](https://www.alfredapp.com)
-- [Spotify](https://www.spotify.com/us/)
-- [iTerm](https://www.iterm2.com)
 - [Charles](https://www.charlesproxy.com)
 - [Launchpad Manager](http://launchpadmanager.com/)
 
@@ -37,3 +35,4 @@
 ### Terminal
 - [Homebrew](https://brew.sh/index_zh-cn)
 - [Oh My Zsh](https://ohmyz.sh/)
+
