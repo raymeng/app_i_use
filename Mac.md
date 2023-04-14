@@ -30,6 +30,7 @@ https://formulae.brew.sh
 - [微信](https://mac.weixin.qq.com/?t=mac&lang=zh_CN)
 - [LyricsX](https://github.com/ddddxxx/LyricsX)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
+- [Microsoft Edge](https://www.microsoft.com/zh-cn/edge)
 - [Microsoft 365](https://www.microsoft.com/zh-hk/microsoft-365/mac/microsoft-365-for-mac/?rtc=1)
 
 ### Third Party
