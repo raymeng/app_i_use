@@ -35,6 +35,7 @@ https://formulae.brew.sh
 ### Third Party
 - [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
 - [Logi Options+](https://www.logitech.com/en-hk/software/logi-options-plus.html)
+- [剪映](https://www.capcut.cn)
 
 ### Other
 - [Charles](https://www.charlesproxy.com)
