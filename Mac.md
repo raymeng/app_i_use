@@ -31,6 +31,7 @@ https://formulae.brew.sh
 - [LyricsX](https://github.com/ddddxxx/LyricsX)
 - [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html)
 - [Microsoft 365](https://www.microsoft.com/zh-hk/microsoft-365/mac/microsoft-365-for-mac/?rtc=1)
+- [iMazing](https://imazing.com/)
 
 ### Third Party
 - [Vivo Quantum Kit](https://quantumkit.vivo.com/#/)
@@ -40,7 +41,3 @@ https://formulae.brew.sh
 ### Other
 - [Charles](https://www.charlesproxy.com)
 - [Launchpad Manager](http://launchpadmanager.com/)
-
-
-
-
