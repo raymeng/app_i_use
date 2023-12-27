@@ -1,10 +1,10 @@
 ## Mac
 #### Mac App Store
-- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12) 
+- [Day One](https://apps.apple.com/cn/app/day-one/id1055511498?mt=12)
+- [Omnifocus](https://apps.apple.com/us/app/omnifocus-4/id1542143627?mt=12)
 - [Final Cut Pro](https://apps.apple.com/cn/app/final-cut-pro/id424389933?mt=12)
 - [Logic Pro X](https://apps.apple.com/cn/app/logic-pro-x/id634148309?mt=12)
 - [Pixelmator Pro](https://apps.apple.com/cn/app/pixelmator-pro/id1289583905?mt=12)
-- [Omnifocus](https://apps.apple.com/us/app/omnifocus-3/id1346203938?l=zh&mt=12)
 
 ### Setapp
 - [CleanMyMac](https://setapp.com/apps/cleanmymac)
